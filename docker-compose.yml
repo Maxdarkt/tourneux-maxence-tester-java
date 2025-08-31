@@ -1,0 +1,19 @@
+version: "3.9"
+
+services:
+  mysql:
+    image: mysql:8.0
+    container_name: parkit-mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: rootroot   # mot de passe root
+      MYSQL_DATABASE: prod            # DB créée au démarrage
+    ports:
+      - "3306:3306"                   # hôte:container (change le 1er si 3306 est déjà pris)
+    command:
+      - "--default-authentication-plugin=mysql_native_password"
+      - "--explicit_defaults_for_timestamp=1"
+    volumes:
+      - db-data:/var/lib/mysql        # persistance des données
+
+volumes:
+  db-data:

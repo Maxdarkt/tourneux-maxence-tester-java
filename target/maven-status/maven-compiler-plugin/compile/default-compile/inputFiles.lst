@@ -1,0 +1,13 @@
+/Users/maxdarkt/Documents/10_programmation/40_formations/10_JAVA OC/04_Parkit/projet04/src/main/java/com/parkit/parkingsystem/constants/ParkingType.java
+/Users/maxdarkt/Documents/10_programmation/40_formations/10_JAVA OC/04_Parkit/projet04/src/main/java/com/parkit/parkingsystem/constants/DBConstants.java
+/Users/maxdarkt/Documents/10_programmation/40_formations/10_JAVA OC/04_Parkit/projet04/src/main/java/com/parkit/parkingsystem/model/ParkingSpot.java
+/Users/maxdarkt/Documents/10_programmation/40_formations/10_JAVA OC/04_Parkit/projet04/src/main/java/com/parkit/parkingsystem/config/DataBaseConfig.java
+/Users/maxdarkt/Documents/10_programmation/40_formations/10_JAVA OC/04_Parkit/projet04/src/main/java/com/parkit/parkingsystem/dao/TicketDAO.java
+/Users/maxdarkt/Documents/10_programmation/40_formations/10_JAVA OC/04_Parkit/projet04/src/main/java/com/parkit/parkingsystem/util/InputReaderUtil.java
+/Users/maxdarkt/Documents/10_programmation/40_formations/10_JAVA OC/04_Parkit/projet04/src/main/java/com/parkit/parkingsystem/dao/ParkingSpotDAO.java
+/Users/maxdarkt/Documents/10_programmation/40_formations/10_JAVA OC/04_Parkit/projet04/src/main/java/com/parkit/parkingsystem/service/InteractiveShell.java
+/Users/maxdarkt/Documents/10_programmation/40_formations/10_JAVA OC/04_Parkit/projet04/src/main/java/com/parkit/parkingsystem/service/FareCalculatorService.java
+/Users/maxdarkt/Documents/10_programmation/40_formations/10_JAVA OC/04_Parkit/projet04/src/main/java/com/parkit/parkingsystem/model/Ticket.java
+/Users/maxdarkt/Documents/10_programmation/40_formations/10_JAVA OC/04_Parkit/projet04/src/main/java/com/parkit/parkingsystem/App.java
+/Users/maxdarkt/Documents/10_programmation/40_formations/10_JAVA OC/04_Parkit/projet04/src/main/java/com/parkit/parkingsystem/constants/Fare.java
+/Users/maxdarkt/Documents/10_programmation/40_formations/10_JAVA OC/04_Parkit/projet04/src/main/java/com/parkit/parkingsystem/service/ParkingService.java
